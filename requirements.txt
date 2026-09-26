@@ -17,3 +17,4 @@ psutil
 future
 wget
 python-arq
+gunicorn
