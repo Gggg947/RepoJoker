@@ -2,15 +2,14 @@ TgCrypto
 asyncio
 ffmpeg-python
 py-tgcalls==0.6.0
-pyrogram
-git+https://github.com/yt-dlp/yt-dlp@master
+pyrogram==1.4.16
 youtube-search-python==1.4.9
 youtube-search
 httpx==0.13.3
 python-dotenv
 gitpython
 aiofiles
-aiohttp
+aiohttp==3.8.5
 requests
 heroku3
 psutil
